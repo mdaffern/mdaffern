@@ -1,4 +1,4 @@
-### Testing stuff ![x](https://media.giphy.com/media/JW5vQQNt4pbfq/giphy.gif)
+### Automating the testing stuff...
 
 <!--
 **mdaffern/mdaffern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
