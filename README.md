@@ -41,6 +41,10 @@
 
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/3236055/173084386-ebedaf77-7286-4e18-aebf-712cbd6db95e.png">
 
+- [Measure What Matters](https://www.amazon.com/Measure-What-Matters-audiobook/dp/B07BMJ4L1S/ref=sr_1_1?crid=2ZRU36PZX5SZ4&keywords=Measure+what+matters&qid=1654870420&s=audible&sprefix=measure+what+matter%2Caudible%2C267&sr=1-1)
+
+<img width="156" alt="image" src="https://user-images.githubusercontent.com/3236055/173084986-f4bdf225-916b-4c34-97f8-caada94663b8.png">
+
 ---
 ### Stuff I've learned (formally)
 #### Education
