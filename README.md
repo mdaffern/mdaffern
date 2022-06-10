@@ -1,6 +1,6 @@
 # Hi! I'm Michael Dafferner
 ---
-### Things I've worked with
+## Things I've worked with
 
 #### Languages
 - Python, C/C++, C#/Java, Ruby, Javascript, Objective C, Visual Basic.Net, TCL/TK
@@ -13,7 +13,7 @@
 
 ---
 
-### What I do for fun
+## What I do for fun
 #### Music
 - Play guitar, sing, record/write
 
@@ -46,7 +46,7 @@
 <img width="156" alt="image" src="https://user-images.githubusercontent.com/3236055/173084986-f4bdf225-916b-4c34-97f8-caada94663b8.png">
 
 ---
-### Stuff I've learned (formally)
+## Stuff I've learned (formally)
 #### Education
 - Masters in Physics from City College, CUNY
 - Bacheolors in Physics and Astronomy from Stony Brook SUNY
@@ -57,7 +57,7 @@
 - Coursera Management Courses
 
 ---
-### How to get in touch with me
+## How to get in touch with me
 - [LinkedIn](https://www.linkedin.com/in/michael-dafferner-09034a5/)
 <!--
 **mdaffern/mdaffern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
