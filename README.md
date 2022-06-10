@@ -1,4 +1,5 @@
 # Hi! I'm Michael Dafferner
+![x](https://media.giphy.com/media/xT0xelgIN2RxBnAMV2/giphy.gif)
 ---
 ## Things I've worked with
 
