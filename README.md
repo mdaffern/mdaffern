@@ -11,6 +11,8 @@
 #### DB Stuff
 - MySQL, Postgres, MongoDB
 
+---
+
 ### What I do for fun
 #### Music
 - Play guitar, sing, record/write
@@ -18,6 +20,7 @@
 #### Apps
 - ZIFF App - Ask me for [access](https://github.com/mdaffern/ziff)
 
+---
 ### Stuff I've learned (formally)
 #### Education
 - Masters in Physics from City College, CUNY
@@ -28,6 +31,7 @@
 - SAFe Certified Agilist
 - Coursera Management Courses
 
+---
 ### How to get in touch with me
 - [LinkedIn](https://www.linkedin.com/in/michael-dafferner-09034a5/)
 <!--
