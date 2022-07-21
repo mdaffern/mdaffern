@@ -1,5 +1,3 @@
-# Hi! I'm Michael Dafferner
-
 ## LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/michael-dafferner-09034a5/)
 <!--
